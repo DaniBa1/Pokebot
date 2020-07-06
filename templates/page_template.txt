@@ -1,0 +1,10 @@
+{
+    "color": 255,
+    "footer": {
+      "text": "Seite {current_page} von {last_page}, schreibe p!next oder p!prev um die Seite zu wechseln"
+    },
+
+
+    "title":"Deine Pokémon",
+    "description":"{info_list}"
+}

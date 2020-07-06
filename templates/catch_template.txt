@@ -1,0 +1,8 @@
+{
+    "color": 255,
+    "title":"Ein wildes Pokémon ist aufgetaucht!",
+    "description":"Rate den Namen des Pokémons und schreibe p!catch <pokémon> in den Chat um es zu fangen!",
+    "image": {
+      "url": "{link}"
+    }
+}

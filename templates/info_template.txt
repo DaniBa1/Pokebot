@@ -1,0 +1,20 @@
+{
+    "color": 255,
+    "footer": {
+      "text": "Select Pokémon: {current_id}/{last_id} - Schreibe p!next und p!prev um die andere Pokémon anzuzeigen!"
+    },
+
+    "image": {
+      "url": "{link}"
+    },
+    "author": {
+      "name": "Prof. Eich",
+      "icon_url": "https://www.pokewiki.de/images/thumb/6/65/Eich_Anime.jpg/200px-Eich_Anime.jpg"
+    },
+    "fields": [
+      {
+        "name": "Level {Level} {Name}",
+        "value": "**Typ:** {Typen}"
+      }
+    ]
+}
